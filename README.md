@@ -1,7 +1,7 @@
 # AI/NLP Risk Signal Platform - S&P Global & Crisil Campus Hackathon
 
 **Candidate Name:** Kurapati Komal Kumar
-**College Email ID:** komalkumarkurapati38@gmail.com
+**College Email ID:** komalkumar.23bce9310@vitapstudent.ac.in
 **College / Campus:** Vellore Institute of Technology, Andhra Pradesh (VIT-AP)
 **Demo Video Link:** [YouTube unlisted link - add after upload]
 **Slide Deck Link (if hosted externally):** Included in repo: [`docs/presentation.pdf`](docs/presentation.pdf)
