@@ -1,0 +1,9 @@
+pandas>=2.0
+numpy>=1.24
+streamlit>=1.50
+plotly>=5.20
+fastapi>=0.110
+uvicorn>=0.29
+pytest>=8.0
+# optional upgrades (engine auto-detects them):
+# transformers torch   -> FinBERT sentiment backend (set SENTIMENT_BACKEND=finbert)
