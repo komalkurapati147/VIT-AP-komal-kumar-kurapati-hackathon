@@ -3,7 +3,7 @@
 **Candidate Name:** Kurapati Komal Kumar
 **College Email ID:** komalkumar.23bce9310@vitapstudent.ac.in
 **College / Campus:** Vellore Institute of Technology, Andhra Pradesh (VIT-AP)
-**Demo Video Link:** [YouTube unlisted link - add after upload]
+**Demo Video Link:** https://youtu.be/g2z5eE22H8Q
 **Slide Deck Link (if hosted externally):** Included in repo: docs/presentation.pdf [download pdf file](https://github.com/komalkurapati147/VIT-AP-komal-kumar-kurapati-hackathon/raw/main/docs/presentation.pdf)
 
 ## 1. Project Overview / Problem Statement & Approach
