@@ -4,7 +4,7 @@
 **College Email ID:** komalkumar.23bce9310@vitapstudent.ac.in
 **College / Campus:** Vellore Institute of Technology, Andhra Pradesh (VIT-AP)
 **Demo Video Link:** [YouTube unlisted link - add after upload]
-**Slide Deck Link (if hosted externally):** Included in repo: [`docs/presentation.pdf`](docs/presentation.pdf)
+**Slide Deck Link (if hosted externally):** Included in repo: docs/presentation.pdf [download pdf file](https://github.com/komalkurapati147/VIT-AP-komal-kumar-kurapati-hackathon/raw/main/docs/presentation.pdf)
 
 ## 1. Project Overview / Problem Statement & Approach
 Risk teams get a huge amount of unstructured text (news and social posts), but decisions need clear numbers. For this case study I built a unified **AI/NLP Risk Engine** that ingests text from two source types (news and social), links each item to a company (or `MARKET`), and emits machine-readable signals: **sentiment score (-1 to 1), event class (8 types), and impact score (1-10)**, via a JSONL file and a REST API.
